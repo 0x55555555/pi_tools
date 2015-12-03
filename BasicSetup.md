@@ -11,7 +11,9 @@ Enable SSH
 ----------
 
 http://www.instructables.com/id/Use-ssh-to-talk-with-your-Raspberry-Pi/
-
+sudo raspi-config
+advanced options
+ssh
 
 Update
 ------
