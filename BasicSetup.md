@@ -41,3 +41,9 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=37324
 sudo adduser user
 sudo adduser user group
 sudo usermod -a -G sudo hduser
+
+
+Breakout board Setup
+--------------------
+
+http://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
