@@ -32,3 +32,12 @@ https://www.raspberrypi.org/documentation/raspbian/updating.md
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get clean # Free space
+
+Add User
+--------
+
+https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=37324
+
+sudo adduser user
+sudo adduser user group
+sudo usermod -a -G sudo hduser
