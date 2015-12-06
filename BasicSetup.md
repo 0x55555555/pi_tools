@@ -47,3 +47,5 @@ Breakout board Setup
 --------------------
 
 http://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
+
+use 330 Ohm resistor on 3.3v track to orientate the breakout board connector.
