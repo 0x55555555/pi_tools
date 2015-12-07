@@ -40,6 +40,7 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=37324
 
 sudo adduser user
 sudo adduser user group
+# note - dont break sudo file, it is not fun.
 sudo usermod -a -G sudo hduser
 
 
