@@ -16,6 +16,10 @@ sudo vi /etc/wpa_supplicant/wpa_supplicant.conf
 sudo ifdown wlan0
 sudo ifup wlan
 
+Hostname
+--------
+
+http://www.howtogeek.com/167195/how-to-change-your-raspberry-pi-or-other-linux-devices-hostname/
 
 Enable SSH
 ----------
