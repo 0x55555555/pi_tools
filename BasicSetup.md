@@ -36,7 +36,7 @@ http://www.instructables.com/id/Use-ssh-to-talk-with-your-Raspberry-Pi/
 Remove UI if required
 ---------------------
 
-> sudo apt-get remove
+> sudo apt-get --purge remove x11-*
 
 Update
 ------
