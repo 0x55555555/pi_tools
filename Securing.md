@@ -8,7 +8,7 @@ https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=37324
 
 Add a new user/change default password
 
-  sudo passwd pi
+> sudo passwd pi
 
 Change to key only
 ------------------
